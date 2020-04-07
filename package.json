@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "This project was done in JavaScript ES6 course by TreinaWeb.",
   "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "start": "node index.js"
   },
