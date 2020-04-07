@@ -1,0 +1,27 @@
+{
+  "name": "pokedex",
+  "version": "1.0.2",
+  "description": "This project was done in JavaScript ES6 course by TreinaWeb.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsonbruno415/pokedex.git"
+  },
+  "keywords": [
+    "Pokemons",
+    "Pokedex",
+    "TreinaWeb"
+  ],
+  "author": "Edson Bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edsonbruno415/pokedex/issues"
+  },
+  "homepage": "https://github.com/edsonbruno415/pokedex#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
